@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(209, 209, 247);
+}
+#image {
+  margin-top: 10px;
+  box-shadow: 5px 5px 5px 5px gray;
+  width: 60px;
+  padding: 20px;
+  font-weight: 400;
+  padding-bottom: 0px;
+  height: 40px;
+  user-select: none;
+  text-decoration: line-through;
+  font-style: italic;
+  font-size: x-large;
+  border: rgb(90, 16, 250) 2px solid;
+  margin-left: 10px;
+}
+#user-input {
+  box-shadow: 5px 5px 5px 5px gray;
+  width: auto;
+  margin-right: 10px;
+  padding: 10px;
+  padding-bottom: 0px;
+  height: 40px;
+  border: rgb(45, 30, 252) 0px solid;
+}
+input {
+  border: 1px black solid;
+}
+.inline {
+  display: inline-block;
+}
+#btn {
+  box-shadow: 5px 5px 5px grey;
+  color: aqua;
+  margin: 10px;
+  background-color: brown;
+}
